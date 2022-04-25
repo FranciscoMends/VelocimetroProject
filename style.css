@@ -1,0 +1,27 @@
+body{
+    font: normal 20pt Arial;
+    color: brown;
+    background-color: black;
+    text-align: center;
+}
+input{
+    width: 50px;
+    height: 20px;
+}
+input#button{
+    margin-left: 10px;
+}
+div#resp{
+    font: normal 12pt Arial;
+    margin-top: 20px;
+}
+section{
+    font: normal 17pt Arial;
+    background-color: aliceblue;
+    width: 340px;
+    margin: auto;
+    color: black;
+    box-shadow: 5px 6px 10px brown;
+    border-radius: 10px;
+    padding: 10px;
+}
